@@ -1,10 +1,12 @@
 ### Text Mining 
 
 
+
 #### Libraries
 
 pip install nltk
 pip install pyspellchecker
+
 
 
 #### Docs
